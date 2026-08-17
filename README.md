@@ -14,7 +14,7 @@
 ---
 
 ## 🧑‍💻 About Me
-- 🎓 **Education:** Undergraduate student at **Huizhou University**, majoring in **Computer Science and Technology**
+- 🎓 **Education:** Undergraduate student at **Huizhou University**, majoring in **Data Science and Big Data Technology**
 - 🔬 **Research Interests:** Deep Learning, Medical Image Translation & Reconstruction (MRI Synthesis), Computer Vision
 - 🎯 **Focus Areas:** Model Optimization, Lightweight Architectures, CS Fundamentals & System Programming
 - 💻 **Hardware & Env:** Training on Tesla V100 GPU | Linux, Conda, Tmux
@@ -22,9 +22,7 @@
 ---
 
 ## 📚 Publications & Projects
-1. **LiteMamba / Restormer-SF** — Medical Image Translation with Discrete Wavelet Transforms
-2. *[Insert Paper 1 Name]* — First Author
-3. *[Insert Paper 2 Name]* — Co-Author
+
 
 ---
 
